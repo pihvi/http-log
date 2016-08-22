@@ -1,0 +1,22 @@
+{
+  "name": "http-log",
+  "version": "1.0.0",
+  "description": "Receive http requests and print request info i.e. a http debug server.",
+  "preferGlobal": "true",
+  "bin": {
+    "http-log": "http-log.js"
+  },
+  "keywords": [
+    "http",
+    "debug",
+    "print",
+    "request",
+    "headers",
+    "server",
+    "zero",
+    "dependencies"
+  ],
+  "author": "Pihvi",
+  "repository": "git@github.com:pihvi/http-log.git",
+  "license": "ISC"
+}
