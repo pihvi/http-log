@@ -1,4 +1,6 @@
 ## http-log
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pihvi/http-log.svg)](https://greenkeeper.io/)
 Receive http requests and print request info i.e. a http debug server.
 
 ### Installing
